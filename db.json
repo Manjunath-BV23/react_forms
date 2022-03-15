@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "Sowji",
+      "age": "22",
+      "address": "Bangalore",
+      "department": "Testing",
+      "salary": "500000",
+      "marital_state": "married",
+      "id": 1
+    },
+    {
+      "username": "Nagesh",
+      "age": "22",
+      "address": "Bangalore",
+      "department": "Research",
+      "salary": "500000",
+      "marital_state": "married",
+      "id": 2
+    },
+    {
+      "username": "Saanvi",
+      "age": "22",
+      "address": "Hyderebad",
+      "department": "Development",
+      "salary": "700000",
+      "marital_state": "",
+      "id": 3
+    },
+    {
+      "username": "Manjunath",
+      "age": "23",
+      "address": "Anantapur",
+      "department": "Development",
+      "salary": "800000",
+      "marital_state": "married",
+      "id": 4
+    },
+    {
+      "username": "Sampada",
+      "age": "22",
+      "address": "Anantapur",
+      "department": "Research",
+      "salary": "900000",
+      "marital_state": "",
+      "id": 5
+    }
+  ]
+}
